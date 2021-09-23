@@ -1,1 +1,1 @@
-This is just a test for pushing to github
+The app I will be creating will be able to communicate with a bluetooth Arduino device. It will recieve data and format it with some level of GUI for the user.
